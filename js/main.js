@@ -98,7 +98,7 @@ if (orderBtn) {
 
     message += `%0ATotal: ${total} FCFA`;
 
-    const phone = "+22996484529";
+    const phone = "22959307687";
     window.open(`https://wa.me/${phone}?text=${message}`);
   });
 }

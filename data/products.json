@@ -1,1 +1,32 @@
-
+[
+  {
+    "id": 1,
+    "name": "iPhone 11",
+    "price": 250000,
+    "image": "data/image-"
+  },
+  {
+    "id": 2,
+    "name": "Samsung S21",
+    "price": 200000,
+    "image": "data/image"
+  },
+  {
+    "id": 3,
+    "name": "HP EliteBook",
+    "price": 300000,
+    "image": "https://via.placeholder.com/200"
+  },
+  {
+    "id": 4,
+    "name": "MacBook Pro",
+    "price": 500000,
+    "image": "https://via.placeholder.com/200"
+  },
+  {
+    "id": 5,
+    "name": "iPad Air",
+    "price": 350000,
+    "image": "https://via.placeholder.com/200"
+  }
+]
